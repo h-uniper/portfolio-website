@@ -70,10 +70,6 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 Hello! My name is Juniper Huang (they/them). I am a graduate student interested in data science, machine learning, official statistics, interdisciplinary design, and cyberlaw. 
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
-
 <span style="display: block; height: 8px;"></span>
 
 
