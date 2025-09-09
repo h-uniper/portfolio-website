@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Juniper Huang
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Juniper
+last_name: Huang
 
 # Status emoji
 status:
@@ -14,28 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Graduate Student at Rensselaer Polytechnic Institute
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: RPI in Troy, NY
+    url: https://www.rpi.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: bio tbd 
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: BA in Data Science and Computer Science
+      institution: Smith College in Northampton, MA
+      year: 2025
+    - course: MS in Information Technology
+      institution: Rensselaer Polytechnic Institute
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,19 +46,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
+    link: mailto:huangj26@rpi.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/h-uniper
     display:
       header: true
-  - icon: mastodon
+  - icon: orchid
     icon_pack: fab
-    link: https://mastodon.social/@simongravelle
+    link: https://orcid.org/0009-0006-7351-0943
     label: Follow me on Mastodon
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
+    link: https://scholar.google.com/citations?user=hfh36b0AAAAJ&hl=en
   - icon: cv
     icon_pack: ai
     link: files/resume/resume-simon-gravelle.pdf
@@ -67,8 +68,7 @@ highlight_name: true # Highlight the author in author lists? (true/false)
 
 ### About me ##
 
-I am a computer physicist in soft matter and fluids at interfaces, working at
-the LIPhy institute in Grenoble, France.
+Hello! My name is Juniper Huang (they/them). I am a graduate student interested in data science, machine learning, official statistics, interdisciplinary design, and cyberlaw. 
 
 <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
@@ -76,16 +76,5 @@ the LIPhy institute in Grenoble, France.
 
 <span style="display: block; height: 8px;"></span>
 
-### What I share on <a href="https://github.com/simongravelle" target="_blank" style="text-decoration: none;">GitHub</a> ##
 
-  - Input files for molecular simulations
-  - Scripts for preparing and analyzing simulations
-  - Data and scripts from my recent publications
-
-<span style="display: block; height: 8px;"></span>
-
-### My primary outreach projects ##
-
-  - <a href="https://github.com/lammpstutorials" target="_blank" style="text-decoration: none;">LAMMPS tutorials</a> for LAMMPS beginners
-  - <a href="https://github.com/mdcourse" target="_blank" style="text-decoration: none;">Guides</a> for implementing molecular simulations from scratch
 
